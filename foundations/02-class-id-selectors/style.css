@@ -1,0 +1,23 @@
+body {
+    padding: 2em;
+}
+
+.cool{
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+    background-color: rgb(255, 192, 203);
+}
+
+.cooler {
+    font-size: 24px;
+}
+
+#first {
+    font-size: 36px;
+    color: rgb(0, 0, 255);
+}
+
+#second {
+    font-size: 24px;
+    font-weight: bold;
+    background-color: rgb(185, 252, 185);
+}
